@@ -1,0 +1,16 @@
+{
+  "name": "Assignment2_llm4",
+  "type": "template",
+  "commit_message": "llm5",
+  "template_name": "result",
+  "model": "gpt-5-mini",
+  "include_explanations": true,
+  "use_function_calling": false,
+  "classification_choices": {
+    "correct": 1,
+    "incorrect": 0
+  },
+  "direction": "maximize",
+  "data_granularity": "span",
+  "template": "Evaluate the {response} against the {judge_rubric}. Do not make any other evaluation or assumptions. If the response is in line with the {judge_rubric}, then the answer should be 'correct'."
+}

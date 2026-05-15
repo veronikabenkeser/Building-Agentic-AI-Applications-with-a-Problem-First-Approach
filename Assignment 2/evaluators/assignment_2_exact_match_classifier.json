@@ -1,0 +1,11 @@
+{
+  "name": "assignment_2_exact_match_classifier",
+  "type": "code",
+  "commit_message": "Initial version",
+  "managed_evaluator": "ExactMatch",
+  "data_granularity": "span",
+  "variables": [
+    "output",
+    "expected_output"
+  ]
+}
