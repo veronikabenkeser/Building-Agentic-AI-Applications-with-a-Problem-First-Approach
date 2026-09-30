@@ -1,6 +1,6 @@
 # Building-Agentic-AI-Applications-with-a-Problem-First-Approach
 
-This repo contains assignments form the Maven course "Building-Agentic-AI-Applications-with-a-Problem-First-Approach". The Agentic Workflows were implemented in Langflow.
+This repo contains assignments from the Maven course "Building-Agentic-AI-Applications-with-a-Problem-First-Approach". The Agentic Workflows were implemented in Langflow.
 
 ## v0 Agentic Search System
 
